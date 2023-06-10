@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently studying.<br>I'm currently learning Spring boot.<br>I'm currently looking for a company where I can do my internship remotely.
+I'm currently studying Software Engineering with Artificial Intelligence.<br>I'm currently learning Spring boot.<br>I'm currently looking for a company where I can do my internship remotely.
 
 
 # 💻 Tech Stack:
